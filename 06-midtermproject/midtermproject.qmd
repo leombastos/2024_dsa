@@ -10,6 +10,10 @@ format:
     theme: cerulean
 ---
 
+# Mid-term project GitHub repository URL:  
+
+Paste here the URL of the GitHub project (after going through the instruction steps)
+
 # Instructions  
 This file contains both the **instructions** for the mid-term project and placeholders for your code. You are required to use this file to produce code, output, and answers to the questions below.  
 
